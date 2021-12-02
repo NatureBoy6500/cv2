@@ -1,0 +1,20 @@
+
+body {
+  background-color: lightskyblue;
+}
+
+hr {
+  height: 0;
+  background-color: lightskyblue;
+  border-color: linen;
+  border-style: dotted none none;
+  border-width: 8px;
+  width: 6%
+}
+h1 {
+  color: midnightblue;
+}
+h3
+{
+  color: darkred;
+}
